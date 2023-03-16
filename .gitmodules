@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "refund.shiny"]
+	path = refund.shiny
+	url = https://github.com/refunders/refund.shiny
+	shallow = true
+	registered = true
