@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "refund"]
+	path = refund
+	url = https://github.com/refunders/refund
 [submodule "refund.shiny"]
 	path = refund.shiny
 	url = https://github.com/refunders/refund.shiny
